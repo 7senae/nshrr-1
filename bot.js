@@ -8,13 +8,32 @@ console.log("Welcome Again  by Fox!");
 
 Client.on("guildMemberRemove", member => {
   member.send(`***
-*:small_blue_diamond: - السلام عليكم ورحمة الله وبركاته ..
+@everyone || @here 
+**FoxBot اخيرا تم افتتاح سيرفر  :white_check_mark: 
+الرسمي  :rose: 
+اتمنه دخولكم للسيرفر  واذا وصلنه 100 عضو  :kissing_closed_eyes: 
+بسوي قيف اوي على  :wink: 
+10 بوتات  :small_orange_diamond: 
+على خادم لمدة سنه :smile: 
+VPS و7  :heart: 
+و 3 سيرفرات ماين كرافت  :money_mouth: 
+و 20 ريج ايديت  :smile: 
+فعاليه على  :slight_smile: 
+6-
+1 الف :heart_eyes: 
+5-     
+3 الف :thumbsup:  
+4- 
+7 الف :relaxed: 
+3- 
+10 الف :crown: 
+2-
+رانك مود :heart: 
+1- 
+بوت نشر لمدة اسبوع :trident: 
 
-**ما تعرف يمكن الصدفة تخلق ايام وصحبة حلوة  .. :heart:
-( فعاليات .. سوالف .. فرفشة يومية ) 
-( فعاليات توزيع رتب وكريدت يومية )
-حياكم رابط السيرفر : 
-༺   https://discord.gg/rnPa4gv ༻
+https://discord.gg/ZJAaxe
+
 **
 [${member}]**`);
 
@@ -23,13 +42,32 @@ Client.on("guildMemberRemove", member => {
 
   Client.on('guildMemberAdd', member => {
   member.send(`***:
-*:small_blue_diamond: - السلام عليكم ورحمة الله وبركاته ..
+@everyone || @here 
+**FoxBot اخيرا تم افتتاح سيرفر  :white_check_mark: 
+الرسمي  :rose: 
+اتمنه دخولكم للسيرفر  واذا وصلنه 100 عضو  :kissing_closed_eyes: 
+بسوي قيف اوي على  :wink: 
+10 بوتات  :small_orange_diamond: 
+على خادم لمدة سنه :smile: 
+VPS و7  :heart: 
+و 3 سيرفرات ماين كرافت  :money_mouth: 
+و 20 ريج ايديت  :smile: 
+فعاليه على  :slight_smile: 
+6-
+1 الف :heart_eyes: 
+5-     
+3 الف :thumbsup:  
+4- 
+7 الف :relaxed: 
+3- 
+10 الف :crown: 
+2-
+رانك مود :heart: 
+1- 
+بوت نشر لمدة اسبوع :trident: 
 
-**ما تعرف يمكن الصدفة تخلق ايام وصحبة حلوة  .. :heart:
-( فعاليات .. سوالف .. فرفشة يومية ) 
-( فعاليات توزيع رتب وكريدت يومية )
-حياكم رابط السيرفر : 
-༺   https://discord.gg/rnPa4gv ༻
+https://discord.gg/ZJAaxe
+
 **
 [${member}]**`);
 
