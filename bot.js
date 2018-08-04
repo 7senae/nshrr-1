@@ -9,30 +9,52 @@ console.log("Welcome Again  by Fox!");
 Client.on("guildMemberRemove", member => {
   member.send(`***
 @everyone || @here 
-**FoxBot اخيرا تم افتتاح سيرفر  :white_check_mark: 
-الرسمي  :rose: 
-اتمنه دخولكم للسيرفر  واذا وصلنه 100 عضو  :kissing_closed_eyes: 
-بسوي قيف اوي على  :wink: 
-10 بوتات  :small_orange_diamond: 
-على خادم لمدة سنه :smile: 
-VPS و7  :heart: 
-و 3 سيرفرات ماين كرافت  :money_mouth: 
-و 20 ريج ايديت  :smile: 
-فعاليه على  :slight_smile: 
-6-
-1 الف :heart_eyes: 
-5-     
-3 الف :thumbsup:  
-4- 
-7 الف :relaxed: 
-3- 
-10 الف :crown: 
-2-
-رانك مود :heart: 
-1- 
-بوت نشر لمدة اسبوع :trident: 
+he Text Channels and use the Google Forms to get your Invite Money right at the start of the next/current Month!
 
-https://discord.gg/ZJAaxe
+ **
+
+[10+ People Invited]
+➤ [:page_with_curl:] Tier I
+➤ [:money_with_wings:] $20 Paypal
+
+[20+ People Invited]
+➤ [:page_with_curl:] Tier II
+➤ [:money_with_wings:] $45 Paypal
+
+[30+ People Invited]
+➤ [:page_with_curl:] Tier III
+➤ [:money_with_wings:] $70 Paypal
+
+[40+ People Invited]
+➤ [:page_with_curl:] Tier IV
+➤ [:money_with_wings:] $95 Paypal
+
+[50+ People Invited]
+➤ [:page_with_curl:] Tier V
+➤ [:money_with_wings:] $120 Paypal
+
+[60+ People Invited]
+➤ [:page_with_curl:] Tier VI
+➤ [:money_with_wings:] $145 Paypal
+
+[70+ People Invited]
+➤ [:page_with_curl:] Tier VII
+➤ [:money_with_wings:] $170 Paypal
+
+[80+ People Invited]
+➤ [:page_with_curl:] Tier VIII
+➤ [:money_with_wings:] $195 Paypal
+
+[90+ People Invited]
+➤ [:page_with_curl:] Tier IX
+➤ [:money_with_wings:] $220 Paypal
+
+[100+ People Invited]
+➤ [:page_with_curl:] Tier X
+➤ [:money_with_wings:] $250 Paypal
+
+
+https://discord.gg/BkXZfU
 
 **
 [${member}]**`);
@@ -43,30 +65,52 @@ https://discord.gg/ZJAaxe
   Client.on('guildMemberAdd', member => {
   member.send(`***:
 @everyone || @here 
-**FoxBot اخيرا تم افتتاح سيرفر  :white_check_mark: 
-الرسمي  :rose: 
-اتمنه دخولكم للسيرفر  واذا وصلنه 100 عضو  :kissing_closed_eyes: 
-بسوي قيف اوي على  :wink: 
-10 بوتات  :small_orange_diamond: 
-على خادم لمدة سنه :smile: 
-VPS و7  :heart: 
-و 3 سيرفرات ماين كرافت  :money_mouth: 
-و 20 ريج ايديت  :smile: 
-فعاليه على  :slight_smile: 
-6-
-1 الف :heart_eyes: 
-5-     
-3 الف :thumbsup:  
-4- 
-7 الف :relaxed: 
-3- 
-10 الف :crown: 
-2-
-رانك مود :heart: 
-1- 
-بوت نشر لمدة اسبوع :trident: 
+he Text Channels and use the Google Forms to get your Invite Money right at the start of the next/current Month!
 
-https://discord.gg/ZJAaxe
+ **
+
+[10+ People Invited]
+➤ [:page_with_curl:] Tier I
+➤ [:money_with_wings:] $20 Paypal
+
+[20+ People Invited]
+➤ [:page_with_curl:] Tier II
+➤ [:money_with_wings:] $45 Paypal
+
+[30+ People Invited]
+➤ [:page_with_curl:] Tier III
+➤ [:money_with_wings:] $70 Paypal
+
+[40+ People Invited]
+➤ [:page_with_curl:] Tier IV
+➤ [:money_with_wings:] $95 Paypal
+
+[50+ People Invited]
+➤ [:page_with_curl:] Tier V
+➤ [:money_with_wings:] $120 Paypal
+
+[60+ People Invited]
+➤ [:page_with_curl:] Tier VI
+➤ [:money_with_wings:] $145 Paypal
+
+[70+ People Invited]
+➤ [:page_with_curl:] Tier VII
+➤ [:money_with_wings:] $170 Paypal
+
+[80+ People Invited]
+➤ [:page_with_curl:] Tier VIII
+➤ [:money_with_wings:] $195 Paypal
+
+[90+ People Invited]
+➤ [:page_with_curl:] Tier IX
+➤ [:money_with_wings:] $220 Paypal
+
+[100+ People Invited]
+➤ [:page_with_curl:] Tier X
+➤ [:money_with_wings:] $250 Paypal
+
+
+https://discord.gg/BkXZfU
 
 **
 [${member}]**`);
