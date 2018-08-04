@@ -13,48 +13,47 @@ he Text Channels and use the Google Forms to get your Invite Money right at the 
 
  **
 
-[10+ People Invited]
-➤ [:page_with_curl:] Tier I
+<10+ People Invited>
+➤ [:page_with_curl:] :diamond: 
 ➤ [:money_with_wings:] $20 Paypal
 
-[20+ People Invited]
-➤ [:page_with_curl:] Tier II
+<20+ People Invited>
+➤ [:page_with_curl:] :diamond: 
 ➤ [:money_with_wings:] $45 Paypal
 
-[30+ People Invited]
-➤ [:page_with_curl:] Tier III
+<30+ People Invited>
+➤ [:page_with_curl:] :diamond: 
 ➤ [:money_with_wings:] $70 Paypal
 
-[40+ People Invited]
-➤ [:page_with_curl:] Tier IV
+<40+ People Invited>
+➤ [:page_with_curl:] :diamond: 
 ➤ [:money_with_wings:] $95 Paypal
 
-[50+ People Invited]
-➤ [:page_with_curl:] Tier V
+<50+ People Invited>
+➤ [:page_with_curl:] :diamond: 
 ➤ [:money_with_wings:] $120 Paypal
 
-[60+ People Invited]
-➤ [:page_with_curl:] Tier VI
+<60+ People Invited>
+➤ [:page_with_curl:] ::diamond: 
 ➤ [:money_with_wings:] $145 Paypal
 
-[70+ People Invited]
-➤ [:page_with_curl:] Tier VII
+<70+ People Invited>
+➤ [:page_with_curl:] ::diamond: 
 ➤ [:money_with_wings:] $170 Paypal
 
-[80+ People Invited]
-➤ [:page_with_curl:] Tier VIII
+<80+ People Invited>
+➤ [:page_with_curl:] ::diamond: 
 ➤ [:money_with_wings:] $195 Paypal
 
-[90+ People Invited]
-➤ [:page_with_curl:] Tier IX
+<90+ People Invited>
+➤ [:page_with_curl:] ::diamond: 
 ➤ [:money_with_wings:] $220 Paypal
 
-[100+ People Invited]
-➤ [:page_with_curl:] Tier X
+<100+ People Invited>
+➤ [:page_with_curl:] :diamond: 
 ➤ [:money_with_wings:] $250 Paypal
 
-
-https://discord.gg/BkXZfU
+https://discord.gg/9zNM8W
 
 **
 [${member}]**`);
@@ -69,48 +68,48 @@ he Text Channels and use the Google Forms to get your Invite Money right at the 
 
  **
 
-[10+ People Invited]
-➤ [:page_with_curl:] Tier I
+<10+ People Invited>
+➤ [:page_with_curl:] :diamond: 
 ➤ [:money_with_wings:] $20 Paypal
 
-[20+ People Invited]
-➤ [:page_with_curl:] Tier II
+<20+ People Invited>
+➤ [:page_with_curl:] :diamond: 
 ➤ [:money_with_wings:] $45 Paypal
 
-[30+ People Invited]
-➤ [:page_with_curl:] Tier III
+<30+ People Invited>
+➤ [:page_with_curl:] :diamond: 
 ➤ [:money_with_wings:] $70 Paypal
 
-[40+ People Invited]
-➤ [:page_with_curl:] Tier IV
+<40+ People Invited>
+➤ [:page_with_curl:] :diamond: 
 ➤ [:money_with_wings:] $95 Paypal
 
-[50+ People Invited]
-➤ [:page_with_curl:] Tier V
+<50+ People Invited>
+➤ [:page_with_curl:] :diamond: 
 ➤ [:money_with_wings:] $120 Paypal
 
-[60+ People Invited]
-➤ [:page_with_curl:] Tier VI
+<60+ People Invited>
+➤ [:page_with_curl:] ::diamond: 
 ➤ [:money_with_wings:] $145 Paypal
 
-[70+ People Invited]
-➤ [:page_with_curl:] Tier VII
+<70+ People Invited>
+➤ [:page_with_curl:] ::diamond: 
 ➤ [:money_with_wings:] $170 Paypal
 
-[80+ People Invited]
-➤ [:page_with_curl:] Tier VIII
+<80+ People Invited>
+➤ [:page_with_curl:] ::diamond: 
 ➤ [:money_with_wings:] $195 Paypal
 
-[90+ People Invited]
-➤ [:page_with_curl:] Tier IX
+<90+ People Invited>
+➤ [:page_with_curl:] ::diamond: 
 ➤ [:money_with_wings:] $220 Paypal
 
-[100+ People Invited]
-➤ [:page_with_curl:] Tier X
+<100+ People Invited>
+➤ [:page_with_curl:] :diamond: 
 ➤ [:money_with_wings:] $250 Paypal
 
+https://discord.gg/9zNM8W
 
-https://discord.gg/BkXZfU
 
 **
 [${member}]**`);
