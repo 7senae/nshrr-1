@@ -13,47 +13,20 @@ he Text Channels and use the Google Forms to get your Invite Money right at the 
 
  **
 
-<10+ People Invited>
-➤ [:page_with_curl:] :diamond: 
-➤ [:money_with_wings:] $20 Paypal
+نظام انفايت اسطوري ياعيال اتمنى يعجبكم
+:black_small_square: 1 = 25 = :money_with_wings: 25.000 كريدت
+:black_small_square: 2 = 50 = :money_with_wings: 50.000 كريدت
+:black_small_square: 3 = 80 =  :money_with_wings: 85.000 كريدت
 
-<20+ People Invited>
-➤ [:page_with_curl:] :diamond: 
-➤ [:money_with_wings:] $45 Paypal
+@everyone كيف تعرف كم دخلت لسيرفر
+1- #commands روح شات الاوامر
+2- !invites اكتب كذا
+3- لما توصل تعال خاص كلمني
+: :2000pxNo_Cross: ملاحظة 
+ارسلي فريند عشان الخاص حقي مقفول
 
-<30+ People Invited>
-➤ [:page_with_curl:] :diamond: 
-➤ [:money_with_wings:] $70 Paypal
 
-<40+ People Invited>
-➤ [:page_with_curl:] :diamond: 
-➤ [:money_with_wings:] $95 Paypal
-
-<50+ People Invited>
-➤ [:page_with_curl:] :diamond: 
-➤ [:money_with_wings:] $120 Paypal
-
-<60+ People Invited>
-➤ [:page_with_curl:] ::diamond: 
-➤ [:money_with_wings:] $145 Paypal
-
-<70+ People Invited>
-➤ [:page_with_curl:] ::diamond: 
-➤ [:money_with_wings:] $170 Paypal
-
-<80+ People Invited>
-➤ [:page_with_curl:] ::diamond: 
-➤ [:money_with_wings:] $195 Paypal
-
-<90+ People Invited>
-➤ [:page_with_curl:] ::diamond: 
-➤ [:money_with_wings:] $220 Paypal
-
-<100+ People Invited>
-➤ [:page_with_curl:] :diamond: 
-➤ [:money_with_wings:] $250 Paypal
-
-https://discord.gg/9zNM8W
+https://discord.gg/C2XGhf
 
 **
 [${member}]**`);
@@ -68,47 +41,21 @@ he Text Channels and use the Google Forms to get your Invite Money right at the 
 
  **
 
-<10+ People Invited>
-➤ [:page_with_curl:] :diamond: 
-➤ [:money_with_wings:] $20 Paypal
+نظام انفايت اسطوري ياعيال اتمنى يعجبكم
+:black_small_square: 1 = 25 = :money_with_wings: 25.000 كريدت
+:black_small_square: 2 = 50 = :money_with_wings: 50.000 كريدت
+:black_small_square: 3 = 80 =  :money_with_wings: 85.000 كريدت
 
-<20+ People Invited>
-➤ [:page_with_curl:] :diamond: 
-➤ [:money_with_wings:] $45 Paypal
+@everyone كيف تعرف كم دخلت لسيرفر
+1- #commands روح شات الاوامر
+2- !invites اكتب كذا
+3- لما توصل تعال خاص كلمني
+: :2000pxNo_Cross: ملاحظة 
+ارسلي فريند عشان الخاص حقي مقفول
 
-<30+ People Invited>
-➤ [:page_with_curl:] :diamond: 
-➤ [:money_with_wings:] $70 Paypal
 
-<40+ People Invited>
-➤ [:page_with_curl:] :diamond: 
-➤ [:money_with_wings:] $95 Paypal
+https://discord.gg/C2XGhf
 
-<50+ People Invited>
-➤ [:page_with_curl:] :diamond: 
-➤ [:money_with_wings:] $120 Paypal
-
-<60+ People Invited>
-➤ [:page_with_curl:] ::diamond: 
-➤ [:money_with_wings:] $145 Paypal
-
-<70+ People Invited>
-➤ [:page_with_curl:] ::diamond: 
-➤ [:money_with_wings:] $170 Paypal
-
-<80+ People Invited>
-➤ [:page_with_curl:] ::diamond: 
-➤ [:money_with_wings:] $195 Paypal
-
-<90+ People Invited>
-➤ [:page_with_curl:] ::diamond: 
-➤ [:money_with_wings:] $220 Paypal
-
-<100+ People Invited>
-➤ [:page_with_curl:] :diamond: 
-➤ [:money_with_wings:] $250 Paypal
-
-https://discord.gg/9zNM8W
 
 
 **
