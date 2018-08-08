@@ -7,59 +7,47 @@ console.log("Welcome Again  by Fox!");
 
 
 Client.on("guildMemberRemove", member => {
-  member.send(`***
-@everyone || @here 
-he Text Channels and use the Google Forms to get your Invite Money right at the start of the next/current Month!
+  member.send(`
+**اهلن فيك في سيرفرنا  تشرفنا 
+:heart:  سوف تقام فعاليت كبيره  والسيرفر قيد التحديث 
+:kissing_heart:  واتمنه تشرفونا و تدخلون 
 
- **
+ادخل للسيرفر  
+https://discord.gg/rnPa4gv
+**
+***========================================***
+** Ahnk you in our server, we are honored
+:heart: will be a significant effectiveness and the server is under update
+:kissing_heart: And let us have a good time
 
-نظام انفايت اسطوري ياعيال اتمنى يعجبكم
-:black_small_square: 1 = 25 = :money_with_wings: 25.000 كريدت
-:black_small_square: 2 = 50 = :money_with_wings: 50.000 كريدت
-:black_small_square: 3 = 80 =  :money_with_wings: 85.000 كريدت
-
-@everyone كيف تعرف كم دخلت لسيرفر
-1- #commands روح شات الاوامر
-2- !invites اكتب كذا
-3- لما توصل تعال خاص كلمني
-: :2000pxNo_Cross: ملاحظة 
-ارسلي فريند عشان الخاص حقي مقفول
-
-
-https://discord.gg/C2XGhf
+join server  
+https://discord.gg/rnPa4gv
 
 **
-[${member}]**`);
+[${member}]`);
 
   });
  
 
   Client.on('guildMemberAdd', member => {
-  member.send(`***:
-@everyone || @here 
-he Text Channels and use the Google Forms to get your Invite Money right at the start of the next/current Month!
+  member.send(`
+**اهلن فيك في سيرفرنا  تشرفنا 
+:heart:  سوف تقام فعاليت كبيره  والسيرفر قيد التحديث 
+:kissing_heart:  واتمنه تشرفونا و تدخلون 
 
- **
+ادخل للسيرفر  
+https://discord.gg/rnPa4gv
+**
+***========================================***
+** Ahnk you in our server, we are honored
+:heart: will be a significant effectiveness and the server is under update
+:kissing_heart: And let us have a good time
 
-نظام انفايت اسطوري ياعيال اتمنى يعجبكم
-:black_small_square: 1 = 25 = :money_with_wings: 25.000 كريدت
-:black_small_square: 2 = 50 = :money_with_wings: 50.000 كريدت
-:black_small_square: 3 = 80 =  :money_with_wings: 85.000 كريدت
-
-@everyone كيف تعرف كم دخلت لسيرفر
-1- #commands روح شات الاوامر
-2- !invites اكتب كذا
-3- لما توصل تعال خاص كلمني
-: :2000pxNo_Cross: ملاحظة 
-ارسلي فريند عشان الخاص حقي مقفول
-
-
-https://discord.gg/C2XGhf
-
-
+join server  
+https://discord.gg/rnPa4gv
 
 **
-[${member}]**`);
+[${member}]`);
 
 
   });
