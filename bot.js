@@ -23,6 +23,7 @@ https://discord.gg/rnPa4gv
 join server  
 https://discord.gg/rnPa4gv
 
+
 **
 [${member}]`);
 
